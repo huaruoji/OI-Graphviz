@@ -1,0 +1,11 @@
+digraph G {
+  graph[ dpi=300 label=Splay4]
+  D -> 1
+  D -> A
+  A -> C
+  C -> 2
+  C -> B
+  B -> 3
+  B -> 4
+  A -> 5
+}
