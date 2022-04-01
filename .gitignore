@@ -3,4 +3,5 @@
 *.gv
 *.png
 *.svg
+*.in
 !C++/demo/
