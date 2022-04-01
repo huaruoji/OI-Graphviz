@@ -10,3 +10,4 @@ dot.edges(['AB', 'BC', 'CA'])
 print(dot.source)
 file_directory = os.path.split(__file__)[0]
 dot.render(directory=file_directory).replace('\\', '/')
+# test
