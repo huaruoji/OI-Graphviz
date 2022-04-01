@@ -4,4 +4,4 @@
 *.png
 *.svg
 *.in
-!C++/demo/
+!/C++/demo/
