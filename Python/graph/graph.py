@@ -40,7 +40,7 @@ def main():
   global f, file_directory
   file_directory = os.path.split(__file__)[0]
   os.chdir(file_directory)
-  f = open('tree.in', 'r')
+  f = open('graph.in', 'r')
   init()
   main_work()
   print_graph()
