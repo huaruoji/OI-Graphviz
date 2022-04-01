@@ -1,0 +1,7 @@
+digraph "graph" {
+	graph [dpi=300]
+	1 -> 2 [label=3 dir=none]
+	2 -> 3 [label=4 dir=none]
+	3 -> 4 [label=5 dir=none]
+	4 -> 1 [label=3 dir=none]
+}
