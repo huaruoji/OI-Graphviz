@@ -1,0 +1,6 @@
+# Graphviz 生成的东西
+
+*.gv
+*.png
+*.svg
+!C++/demo/
