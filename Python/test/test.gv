@@ -1,9 +1,0 @@
-digraph test {
-	graph [dpi=300]
-	A [label=sth]
-	B [label=sth2]
-	C [label=wtf]
-	A -> B
-	B -> C
-	C -> A
-}
