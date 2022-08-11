@@ -4,7 +4,7 @@
 
 OI 中一点实用的 Graphviz 画图工具。
 
-有 Python 版本和 C++ 版本。C++ 版本不再维护，但基础的东西（加边，生成 dot 文件和图片）能用（早知道 Python 有写好的 Graphviz 库我为什么要用 C++ 搞啊）。
+有 Python 版本和 C++ 版本，C++ 版本不再维护。
 
 使用前请确保您已经安装了 Graphviz。
 
