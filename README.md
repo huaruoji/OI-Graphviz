@@ -1,5 +1,3 @@
-~~我才不会告诉你这个垃圾 repo 是用来学 git 和 python 的~~
-
 # OI-Graphviz
 
 ## 介绍
