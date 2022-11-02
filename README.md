@@ -2,13 +2,13 @@
 
 ## 介绍
 
-OI 中一点实用的 Graphviz 画图工具。
+OI 中一点实用的基于 Graphviz 的画图脚本，目前只有画有向图/无向图的功能。
 
 有 Python 版本和 C++ 版本，C++ 版本不再维护。
 
-使用前请确保您已经安装了 Graphviz。
-
 ## 使用指南
+
+首先安装 Graphviz 和 Python，然后将本仓库 clone 到本地食用。
 
 Python 文件夹的结构如下：
 
